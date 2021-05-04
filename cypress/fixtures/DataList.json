@@ -1,0 +1,37 @@
+
+
+        {
+            "Similar": {
+            "Info": [
+                { 
+                    "q": "Thor",
+                    "type": "movie",
+                    "limit": "2"
+                },
+            
+                { 
+                    "q": "Led Zeppelin",
+                    "type": "music",
+                    "limit": "3"
+                },
+            
+                { 
+                    "q": "Glory",
+                    "type": "movie",
+                    "limit": "3"
+                },
+        
+                { 
+                    "q": "Jethro Tull",
+                    "type": "music",
+                    "limit": "4"
+                },
+        
+                { 
+                    "q": "Charles Dickens",
+                    "type": "author",
+                    "limit": "3"
+                }
+            ]
+            }
+            }
